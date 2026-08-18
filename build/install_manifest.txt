@@ -1,0 +1,6 @@
+/usr/local/lib/libpci2321.so.1.0.0
+/usr/local/lib/libpci2321.so.1
+/usr/local/lib/libpci2321.so
+/usr/local/bin/sweep_example
+/usr/local/include/pci2321.hpp
+/usr/local/include/io_backend.hpp

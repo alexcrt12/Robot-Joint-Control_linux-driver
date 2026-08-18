@@ -1,0 +1,8 @@
+/home/rh-robot/Desktop/practica 2026/cmake-build-debug/CMakeFiles/pci2321.dir
+/home/rh-robot/Desktop/practica 2026/cmake-build-debug/CMakeFiles/sweep_example.dir
+/home/rh-robot/Desktop/practica 2026/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/rh-robot/Desktop/practica 2026/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/rh-robot/Desktop/practica 2026/cmake-build-debug/CMakeFiles/list_install_components.dir
+/home/rh-robot/Desktop/practica 2026/cmake-build-debug/CMakeFiles/install.dir
+/home/rh-robot/Desktop/practica 2026/cmake-build-debug/CMakeFiles/install/local.dir
+/home/rh-robot/Desktop/practica 2026/cmake-build-debug/CMakeFiles/install/strip.dir

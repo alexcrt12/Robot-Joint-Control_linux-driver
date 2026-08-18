@@ -1,0 +1,20 @@
+[
+{
+  "directory": "/home/rh-robot/Desktop/practica 2026/cmake-build-debug",
+  "command": "/usr/bin/c++ -Dpci2321_EXPORTS -I\"/home/rh-robot/Desktop/practica 2026/include\" -g -std=gnu++17 -fPIC -fdiagnostics-color=always -o CMakeFiles/pci2321.dir/src/pci2321.cpp.o -c \"/home/rh-robot/Desktop/practica 2026/src/pci2321.cpp\"",
+  "file": "/home/rh-robot/Desktop/practica 2026/src/pci2321.cpp",
+  "output": "/home/rh-robot/Desktop/practica 2026/cmake-build-debug/CMakeFiles/pci2321.dir/src/pci2321.cpp.o"
+},
+{
+  "directory": "/home/rh-robot/Desktop/practica 2026/cmake-build-debug",
+  "command": "/usr/bin/c++ -Dpci2321_EXPORTS -I\"/home/rh-robot/Desktop/practica 2026/include\" -g -std=gnu++17 -fPIC -fdiagnostics-color=always -o CMakeFiles/pci2321.dir/src/io_backend.cpp.o -c \"/home/rh-robot/Desktop/practica 2026/src/io_backend.cpp\"",
+  "file": "/home/rh-robot/Desktop/practica 2026/src/io_backend.cpp",
+  "output": "/home/rh-robot/Desktop/practica 2026/cmake-build-debug/CMakeFiles/pci2321.dir/src/io_backend.cpp.o"
+},
+{
+  "directory": "/home/rh-robot/Desktop/practica 2026/cmake-build-debug",
+  "command": "/usr/bin/c++ -I\"/home/rh-robot/Desktop/practica 2026/include\" -g -std=gnu++17 -fdiagnostics-color=always -o CMakeFiles/sweep_example.dir/examples/sweep_example.cpp.o -c \"/home/rh-robot/Desktop/practica 2026/examples/sweep_example.cpp\"",
+  "file": "/home/rh-robot/Desktop/practica 2026/examples/sweep_example.cpp",
+  "output": "/home/rh-robot/Desktop/practica 2026/cmake-build-debug/CMakeFiles/sweep_example.dir/examples/sweep_example.cpp.o"
+}
+]
