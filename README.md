@@ -57,7 +57,7 @@ Running the project without the root:
 ```
 # 1) give the binary access to the I/O ports
 sudo setcap cap_sys_rawio=ep /usr/local/bin/sweep_example
-getcap /usr/local/bin/sweep_example      # confirma: cap_sys_rawio=ep
+getcap /usr/local/bin/sweep_example      # confirms: cap_sys_rawio=ep
  
 # 2) enables the card automatically at every boot , via a udev rule
 sudo tee /etc/udev/rules.d/99-pci2321.rules >/dev/null <<'EOF'
@@ -69,3 +69,9 @@ sudo udevadm trigger --subsystem-match=pci
 # 3) now runs as a regular command (without sudo)
 sweep_example
 ```
+### Extra Functionality added
+If there's a need to use only a select number of ports and some their respective bits, under:
+```
+/examples/sweep_example_mod.cpp
+```
+there's an updated implementation for this specific purpose.
