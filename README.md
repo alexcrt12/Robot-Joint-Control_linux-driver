@@ -1,5 +1,5 @@
 # Linux Driver for Rehab Robot
-### Introduction
+## Introduction
 This is a linux driver for a Rehab Joint Controlled Robot.
 The relay and board bindings to the ports are the following:
 
@@ -14,7 +14,7 @@ If it doesn't, the alternative will be advised to use:
 ```
 sudo sweep_example
 ```
-### Preliminary steps to take before running the linux command
+## Preliminary steps to take before running the linux command
 Before we start we should try and use these commands to confirm that our libraries are fully functional.
 ```
 sudo apt update
@@ -69,7 +69,7 @@ sudo udevadm trigger --subsystem-match=pci
 # 3) now runs as a regular command (without sudo)
 sweep_example
 ```
-### Extra Functionality added
+## Extra Functionality added
 If there's a need to use only a select number of ports and some their respective bits, under:
 ```
 /examples/sweep_example_mod.cpp
