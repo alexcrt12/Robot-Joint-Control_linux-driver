@@ -51,6 +51,7 @@ cmake -S . -B build
 cmake --build build -j
 sudo cmake --install build
 sudo ldconfig
+# these 4 commands above in the terminal will always generate the "build" folder within the project
 sudo sweep_example # this one is already mentioned at the beginning of the readme
 ```
 Running the project without the root:
