@@ -1,0 +1,9 @@
+cmake_minimum_required(VERSION 3.16)
+project(task10_robot_relays)
+
+set(CMAKE_CXX_STANDARD 17)
+
+add_executable(task10_robot_relays main.cpp)
+
+target_include_directories(task10_robot_relays PRIVATE /usr/local/include)
+target_link_libraries(task10_robot_relays PRIVATE /usr/local/lib/libpci2321.so)
