@@ -73,6 +73,6 @@ sweep_example
 ## Extra Functionality added
 If there's a need to use only a select number of ports and some their respective bits, under:
 ```
-/examples/sweep_example_mod.cpp
+/examples/main_example.cpp # and its corresponding CMakeLists_example.txt file
 ```
 there's an updated implementation for this specific purpose.
