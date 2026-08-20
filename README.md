@@ -76,3 +76,15 @@ If there's a need to use only a select number of ports and some their respective
 /examples/main_example.cpp # and its corresponding CMakeLists_example.txt file
 ```
 there's an updated implementation for this specific purpose.
+In order to run, use these terminal commands first to generate your "build" folder: 
+```
+cmake -S . -B build
+cmake --build build -j
+sudo cmake --install build
+sudo ldconfig
+```
+After that in the "examples" folder run the code with:
+```
+sudo ./build/task10_robot_relays
+```
+Its functionality being that it will turn on the necessary relays in order to use the robot's joints. Akin to the Windows program intended for this very purpose.
