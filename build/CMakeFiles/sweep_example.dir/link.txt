@@ -1,1 +1,0 @@
-/usr/bin/c++ CMakeFiles/sweep_example.dir/examples/sweep_example.cpp.o -o sweep_example  -Wl,-rpath,"/home/rh-robot/Desktop/practica 2026/build:" libpci2321.so.1.0.0 

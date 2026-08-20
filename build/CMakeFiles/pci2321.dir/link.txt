@@ -1,1 +1,0 @@
-/usr/bin/c++ -fPIC -shared -Wl,-soname,libpci2321.so.1 -o libpci2321.so.1.0.0 CMakeFiles/pci2321.dir/src/pci2321.cpp.o CMakeFiles/pci2321.dir/src/io_backend.cpp.o 
