@@ -88,3 +88,9 @@ After that in the "examples" folder run the code with:
 sudo ./build/task10_robot_relays
 ```
 Its functionality being that it will turn on the necessary relays in order to use the robot's joints. Akin to the Windows program intended for this very purpose.
+## Hybrid Functionality added
+In the "hybrid" folder there's a mixed language project(C++ and Python) that allows for the same functionality, but when the main file is of .py format instead of .cpp.
+To run the code use the command(after the build phase in your IDE of choice):
+```
+sudo pyhton3 main.py
+```
