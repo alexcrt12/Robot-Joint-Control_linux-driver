@@ -1,7 +1,6 @@
 #ifndef PRACTICA_2026_IO_BACKEND_HPP
 #define PRACTICA_2026_IO_BACKEND_HPP
 
-#pragma once
 #include <cstdint>
 #include <string>
 using namespace std;
