@@ -1,7 +1,6 @@
 #ifndef PRACTICA_2026_PCI2321_HPP
 #define PRACTICA_2026_PCI2321_HPP
 
-#pragma once
 #include "io_backend.hpp"
 #include <cstdint>
 #include <string>
